@@ -28,6 +28,7 @@ For end-users
    jupyter
    pchain
    secret
+   runOnGPU
 
 Python API references
 ======================
